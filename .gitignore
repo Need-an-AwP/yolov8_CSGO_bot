@@ -156,3 +156,6 @@ weights/
 *_paddle_model/
 /feature_test/
 /MiDaS-master/
+/BOT/train/test/
+/BOT/train/train/
+/BOT/train/valid/
